@@ -1,0 +1,12 @@
+{
+    "name": "pedro.santos12/api-usuarios1",
+    "require": {
+        "slim/slim": "^4.14",
+        "slim/psr7": "^1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "PedroSantos12\\ApiUsuarios1\\": "src/"
+        }
+    }
+}
